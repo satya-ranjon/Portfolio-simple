@@ -1,0 +1,25 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+header,.service ,.portfoliio,footer{
+    font-family: 'Lato', sans-serif;
+}
+$theme_color:#7e5c88;
+$text_color:#6d6a6a;
+
+
+
+@import'-header.scss';
+@import'-service.scss';
+@import'-portfolio.scss';
+@import'-video.scss';
+@import'-twitter.scss';
+@import'-about.scss';
+@import'-contact.scss';
+@import'-footer.scss';
+
+.material-scrolltop:focus {
+ outline: none!important;
+ background: rgb(26, 119, 31)!important;
+}

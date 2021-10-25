@@ -1,0 +1,127 @@
+@media screen and (max-width: 1028px) {
+    header .header_carousel .header_single_box2 img {
+        width: 450px;
+        height: 450px;
+    }
+
+    header .owl-nav .owl-next {
+        right: -4% !important;
+    }
+
+    header .owl-nav .owl-prev {
+        left: -1% !important;
+    }
+
+    header .header_carousel .header_single_box1 h2 {
+        font-size: 30px;
+    }
+
+    .header_single_box1 {
+        padding-left: 12px !important;
+    }
+}
+
+@media screen and (max-width: 1028px) {
+    header .header_carousel .header_single_box1 {
+        margin-top: 0px;
+    }
+
+    .header_single_box1 {
+        padding-left: 0px;
+    }
+
+    header .header_carousel .header_single_box2 img {
+        width: 340px;
+        height: 340px;
+    }
+
+    header .header_carousel .header_single_box1 h2 {
+        font-size: 20px;
+    }
+
+    header .header_carousel .header_single_box1 {
+        margin-top: 37px;
+    }
+
+    header .header_carousel .header_single_box1 button {
+        font-size: 12px;
+    }
+
+    header .header_carousel .header_single_box1 button span {
+        font-size: 8px;
+    }
+
+    header .owl-nav .owl-next {
+        right: -14%;
+    }
+
+    header .owl-nav .owl-prev {
+        left: -11%;
+    }
+}
+
+@media screen and (max-width: 1028px) {
+    .dropdown:hover .content {
+        display: block;
+        left: 112px;
+    }
+}
+
+@media screen and (max-width: 872px) {
+    header .owl-nav .owl-next {
+        right: -9%;
+    }
+
+    header .owl-nav .owl-prev {
+        left: -6%;
+    }
+}
+
+@media screen and (max-width: 872px) {
+    header .owl-nav .owl-next {
+        right: -5%;
+    }
+
+    header .owl-nav .owl-prev {
+        left: -2%;
+    }
+
+    header .header_carousel .header_single_box1 {
+        text-align: center;
+        margin-bottom: 12px;
+    }
+}
+
+@media screen and (max-width: 490px) {
+    header .header_carousel .header_single_box2 img {
+        width: 200px;
+        height: 200px;
+    }
+
+    header .header_carousel .header_single_box2 {
+        margin-left: 40px;
+    }
+}
+
+@media screen and (max-width: 430px) {
+    header .header_carousel .header_single_box2 {
+        margin-left: 30px !important;
+    }
+}
+
+@media screen and (max-width: 390px) {
+    header .header_carousel .header_single_box2 {
+        margin-left: 20px !important;
+    }
+}
+
+@media screen and (max-width: 470px) {
+    header .header_carousel .header_single_box2 img {
+        width: 150px;
+        height: 150px;
+    }
+
+    header .header_carousel .header_single_box2 {
+        margin-left: 3px !important;
+    }
+}
